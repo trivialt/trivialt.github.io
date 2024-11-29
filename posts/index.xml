@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://trivialt.github.io/posts.html</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2024 13:52:36 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trivialt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://trivialt.github.io/posts/my-first-post.html</link>
       <pubDate>Fri, 29 Nov 2024 13:52:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;</description>
+      <guid>https://trivialt.github.io/posts/my-first-post.html</guid>
+      <description>&lt;p&gt;Hello world! Welcome to visit this website.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

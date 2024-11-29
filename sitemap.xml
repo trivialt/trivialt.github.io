@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/data/</loc>
+    <loc>https://trivialt.github.io/posts/my-first-post.html</loc>
+    <lastmod>2024-11-29T13:52:36+08:00</lastmod>
+  </url><url>
+    <loc>https://trivialt.github.io/</loc>
+    <lastmod>2024-11-29T13:52:36+08:00</lastmod>
+  </url><url>
+    <loc>https://trivialt.github.io/posts.html</loc>
+    <lastmod>2024-11-29T13:52:36+08:00</lastmod>
+  </url><url>
+    <loc>https://trivialt.github.io/data.html</loc>
     <lastmod>2024-11-29T13:29:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-29T13:29:26+08:00</lastmod>
+    <loc>https://trivialt.github.io/categories.html</loc>
   </url><url>
-    <loc>http://localhost:1313/data/test/</loc>
-    <lastmod>2024-11-29T13:29:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://trivialt.github.io/tags.html</loc>
   </url>
 </urlset>
